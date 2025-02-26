@@ -39,4 +39,3 @@
   * Код для построения кода stacked bar plot (замена pie plot)
 
 **Data Koalas желает вам удачи!**
-
