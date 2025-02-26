@@ -1,2 +1,0 @@
-http://mathprofi.ru/files/zadachi_dsv.pdf - задачи на распределения
-https://pingouin-stats.org/build/html/generated/pingouin.anova.html#pingouin.anova - api пингвина
